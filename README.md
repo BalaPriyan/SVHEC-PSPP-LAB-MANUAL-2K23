@@ -2,7 +2,7 @@
 
 ## LIST OF PROGRAM AVAILABLE
 
--> Circulate n Variable
+- Circulate n Variable
 
 
 
