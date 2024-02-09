@@ -1,0 +1,40 @@
+
+
+Ex.No.4
+LINEAR SEARCH
+AIM
+To write a Python program to search a number in list of numbers using linear search.
+ALGORITHM
+Step 1: Start
+Step 2: Call Sequential Search() with list of arguments.
+Step 3: Assign pas-0
+Step 4: Assign found-False
+Step 5: Repeat step 5 to 7 until pos<len(dlist) occur false
+Step 6: Check if dlist[pos]
+Step 7: Assign found - True
+Step 8: calculate pos = pos+ 1
+item then go to step 6 otherwise go to step 7.
+Step 9: Return and print found, pos to Sequential Search. Step 10: Stop.
+PROGRAM
+4
+7
+3
+n=int(input("Enter the limit:"))
+print("Enter the Elements:")
+for i in range(n):
+a.append(int(input()))
+print(a)
+k=int(input("Enter the key:"))
+for i in range(len(a)-1,0,-1):
+if k=a[i]:
+print("The search key',k,'is found in',i+1,'th place')
+OUTPUT
+Enter the limit:5
+Enter the Elements:
+2
+8
+[2, 8, 4, 7,3]
+Enter the key:3
+The search key 3 is found in 5 th place
+63
+63/89
